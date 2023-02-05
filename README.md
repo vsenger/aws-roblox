@@ -38,11 +38,11 @@ Inside PiggyBank.rbxl you will find scripts that uses HTTP to access the PiggyBa
 
 ### Open AWSServerController Script and set your API URL
 
-![intro image](/static/server-controller.png)
+![intro image](/static/server-controller1.png)
 
 ### Open AWSDashboardScript and set your API URL
 
-![intro image](/static/dashboard.png)
+![intro image](/static/dashboard1.png)
 
 ### Run the game and walk to the dashboard
 
